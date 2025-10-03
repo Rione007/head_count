@@ -1,0 +1,5 @@
+train: C:\Users\ander\Music\bus_counter\datasets2\train\images
+val: C:\Users\ander\Music\bus_counter\datasets2\valid\images
+
+nc: 1
+names: ['person']
